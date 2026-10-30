@@ -1,0 +1,135 @@
+{
+ "schema": 1,
+ "letters": {
+  "A": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "B": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "C": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "D": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "E": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "F": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "G": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "H": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "I": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "J": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "K": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "L": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "M": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "N": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "O": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "P": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "Q": {
+   "version": 2,
+   "pages": 1,
+   "count": 254
+  },
+  "R": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "S": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "T": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "U": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "V": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "W": {
+   "version": 2,
+   "pages": 1,
+   "count": 500
+  },
+  "X": {
+   "version": 2,
+   "pages": 1,
+   "count": 83
+  },
+  "Y": {
+   "version": 2,
+   "pages": 1,
+   "count": 181
+  },
+  "Z": {
+   "version": 2,
+   "pages": 1,
+   "count": 167
+  }
+ }
+}
